@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![The final product. Desktop screenshot on 1440 x 800 display.](/design/screenshot.png)
-<!-- 
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
- -->
+- [Live Site](https://creightoneli.github.io/QR-code-component-FEM/)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-edNJb4j1JN)
+
 ## My process
 
 ### Built with
