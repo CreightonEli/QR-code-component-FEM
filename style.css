@@ -24,15 +24,16 @@ body {
     text-align: center;
 }
 
-.card {
+section {
     border-radius: 1.3em;
-    max-width: 335px;
+    max-width: 330px;
     background-color: var(--background-color-2);
-    margin: 120px auto 50px;
+    margin: 140px auto 50px;
 }
 
 img {
     border-radius: .8em;
+    width: 100%;
     max-width: 300px;
     margin: 18px auto 0;
 }
